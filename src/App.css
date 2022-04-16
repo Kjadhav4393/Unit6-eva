@@ -1,4 +1,7 @@
 .App {
+  border: 1px solid red;
+  width: 60%;
+  margin: auto;
   text-align: center;
 }
 
@@ -36,3 +39,35 @@
     transform: rotate(360deg);
   }
 }
+
+.AddCC{
+  width: 50%;
+  border: 1px solid black;
+  margin: auto;
+}
+.tablediv{
+  margin: auto;
+  width: 50%;
+  border: 1px solid red;
+  margin-top: 50px;
+}
+
+.App {
+  display: flex;
+  gap: 50px;
+ }
+ /* .Inputbox{
+ 
+ } */
+ .tr1 > td{
+   padding: 4px 20px;
+   border: 1px solid black;
+ }
+ .tbody1{
+   border: 1px solid red;
+   color: blue;
+ }
+ 
+ 
+ 
+ 
